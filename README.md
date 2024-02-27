@@ -5,7 +5,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 That's why I like to make things that make a difference.
 - 👋 Hi, I’m @gauravsfdcdev
 - 👀 I’m interested in ... Salesforce Crm,Lwc,Apex,Visual Force Page,Javascript,Integrations
-- 🌱 I’m currently learning ...LWR 
+- 🌱 I’m currently learning ...LWR ,and Saleasforce data cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
